@@ -14,6 +14,6 @@ This is a simple Body Mass Index (BMI) Calculator built using [Streamlit](https:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-rushikeshya/bmi-calculator-app.git
+   git clone https://github.com/rushikeshya/bmi-calculator-app.git
    
    cd bmi-calculator-app
